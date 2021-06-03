@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the brine-pits truly stated; in relation to the duty expected from them: being an answer to the paper, entituled, The case of the rock-salt: and also in answer to the other paper on that subject.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18639</idno><idno type="EEBO-CITATION">99895018</idno>
+  <idno type="VID">186307</idno>
+  <idno type="EEBO-PROQUEST">2240923518</idno>
+  
+            <idno type="STC">Wing C1023D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[107]</idno>
+            <idno type="STC">ESTC T81589</idno>
+            <idno type="PROQUEST">ocm99895018</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895018e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186307)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[104])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the brine-pits truly stated; in relation to the duty expected from them: being an answer to the paper, entituled, The case of the rock-salt: and also in answer to the other paper on that subject.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1695 and 1701]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With docket title and table on second leaf verso.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Salt --  Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Salt industry and trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb n="1" facs="tcp:186307:1"/>
+            <head>THE Case of the Brine-Pits TRULY STATED; In Relation to the Duty expected from them:</head>
+            <head type="sub">Being an Answer to the Paper, Entituled, <hi>The Case of the Rock-Salt:</hi> And also in Answer to the other Paper on that Subject.</head>
+            <p>THE Additional Duty upon Salt, being by Parliament made the perpe<g ref="char:EOLhyphen"/>tual Fund of Interest of Eight Pound <hi>per Cent. per Annum,</hi> for Moneys to be raised to supply the Occasions of the Government, no body will deny; but it must become the Wisdom of that Parliament, to Encourage and Preserve the Trade and Making of that Salt, which will be perpetual to answer the Perpetuity of that Duty.</p>
+            <p>The Question therefore is, Whether the Ancient and Durable Trade of Making Salt from Brine-Springs in the County of <hi>Chester,</hi> which never fail, shall be En<g ref="char:EOLhyphen"/>couraged and Preserved, or shall be Destroyed by encouraging a Deceitful Project of making Salt from Rock-Salt gotten there, which Experience, as well as Reason shews, does and will fail.</p>
+            <p>The Author of the Paper, Entituled, <hi>The Case of the Rock-Salt,</hi> begins his Discourse, <hi>That 'tis certain the Rock-Salt ought to be looked upon as a Treasure, and a Blessing to this Kingdom, in its being so happily discovered in a Time of War.</hi> Now seeing this Gen<g ref="char:EOLhyphen"/>tleman's Knowledge of the Rock-Salt is of no longer date than the Commencement of the War, he may be admittted to plead Ignorance in his own defence, and un<g ref="char:EOLhyphen"/>der that Plea I allow him to shelter all the rest of his Errors.</p>
+            <p>If he reads Mr. <hi>John Collins</hi> his Book, Entituled, <hi>Salt and Fishery,</hi> Page the 4th. he will there find, <hi>That the Rock-Salt was discovered in the Year</hi> 1670. <hi>in the Soil of</hi> William Marbury <hi>of</hi> Marbury, <hi>Esq; not far from</hi> Northwich <hi>in the County of</hi> Chester; But the Brine-Salt being then (as all things were in those <hi>Halcyon</hi> Days) exceeding cheap, it was not regarded nor made use of till the late War; to supply which, the Taxes that were raised causing all things to be dear, then and not till then Poverty set Projectors on work to Ruine the Brine-Pits, and reap a Gain to themselves by making Salt from the Rock.</p>
+            <p>As for what the said Author taxeth the Brine-salt makers with, <hi>viz. That either by quite Ruining the Rock, or at least making it Dearer, they may keep up their own Salt to higher Prices upon the People.</hi> If this Author's Eye-sight was not through Self-Interest extreamly Dimm, he might by reading the Act now in Force, and the Bill also now depending in the House, plainly see that effectual Care is taken to prevent those Abuses, by giving the Lord-Mayor of <hi>London,</hi> within the Bills of Mortallity, and the Justices in the Counties at their respective Quarter-Sessions of the Peace, full Power to set what Price they please upon Salt; and all Persons are under great Penalty, obliged to sell Salt at those Prices.</p>
+            <pb n="2" facs="tcp:186307:2"/>
+            <p>And as to what the said Author concludes that Paragraph with, <hi>viz. That it's plain the Revenue will be lessened and the Funds prejudic'd by the Decrease of the Expence, which Necessarily follows the Dearness of Commodities by every ones sparing the Use, and saving the Waste of what is neglected when they are cheaper.</hi> This indeed is a very good Argument against the Additional Duty upon Salt; and if the said Author pleases to enlarge upon that Topick, and lessen the Fund in the Opinions of those who are to lend their Money upon it, 'tis possible he may Reconcile the two contending Com<g ref="char:EOLhyphen"/>panies of Subscribers, and meet with a Reward from the Government suitable to his Merits.</p>
+            <p>This Champion for the Rock-Salt, is pleased to raise two Reasons or Arguments on behalf of the Brine-Pits, and thinks that he has done his Work by answer<g ref="char:EOLhyphen"/>ing them his own way, and so as to please himself; The First is, that <hi>The Rock being worked out in time, the Brine-Pits will be spoil'd by their Water losing its strength:</hi> And the Second is, that <hi>the Rock-Salt may afford to pay a higher Duty because they have their Coals much cheaper:</hi> As to the First of these he finds it to stick so close upon him, that he is willing to get rid on't at any rate, and therefore by a pure shift of begging the Question, allowing the Rock will be work'd out in time (which GOD knows how soon that may be) <hi>Yet,</hi> says he, <hi>the Brine-Pits would not be prejudic'd there<g ref="char:EOLhyphen"/>by; If as is generally believed the Saline Petrefaction is caused by a Salt Water, and not Brine-Springs impregnated by the Mineral-Salt.</hi> This manner of refuting Arguments is so very Weak and Despicable that I might pass it over as not worth notice. But to inform him better, I shall desire him to look into the said Mr. <hi>Collins</hi> his Book, Page the 3d. where he will find that <hi>These Springs</hi> (speaking of Brine-springs) <hi>being re<g ref="char:EOLhyphen"/>mote from the Sea, are conceived to arise from Rocks or Mines of Salt under the Earth, the which are moistned by some Channels or secret Passages under ground:</hi> And thence he proceeds, and gives several Instances and Matters of Fact to Prove and Demonstrate that Assertion. But further, it is impossible that such a Profundity of Petrefaction as Twenty yards thick, which the Rock in one place (and but one) was found to be, could be produced by Salt-water; for if Salt-water had that occult Quality (which no Man ever affirmed it had) as to Tinge, Crust, or Petrifie, yet its ope<g ref="char:EOLhyphen"/>ration can go nor reach no further than where the Water runs, and that's only the superficial Part: and besides, for a full and conclusive Answer to this Chi<g ref="char:EOLhyphen"/>merical Fiction, If the Saline Petrefaction is caused by the Salt-water, then all the Brine-Pits would be turn'd to that saline Petrefaction, which to all Men's Eyes are apparently not so: It is therefore most certain, that the Brine-Springs are not the Efficient Cause of the Salt-Rock, but are impregnated by it; and that being taken away, the Springs must cease to be salt. And so this Argument for the Brine, still stands good against that Author. Let us now see if he will have any better Success, in the Answer he gave to the other Argument, about the Coals being cheap where the Rock is refined, and dear where the Brine-Salt is made. The Answer he gives to this, is, That though he allows <hi>the Refiners have Coals abundantly cheaper than the Brine-Salt-makers;</hi> yet, says he, the <hi>Charge of the Rock is great, whereas the Brine comes up with only a little pains of Pumping.</hi> Now if this Person were a fair Dealer, he would have descended to the Particulars of the Charge of each; and to let him and every<g ref="char:EOLhyphen"/>body else see, (which they may do, if not blinded with Prejudice or Interest) that if the Rock-Salt upon refining draws back the whole Duty at the Pits, it will be im<g ref="char:EOLhyphen"/>possible for the Brine-Pits to carry on the Trade. I desire these Truths may be con<g ref="char:EOLhyphen"/>sider'd:</p>
+            <p>First, The sinking of a Brine-Pit, by vast quantities of Timbrings and Plankings to sup<g ref="char:EOLhyphen"/>port the Rammings out of the Freshes, costs never less than 1500, oftner 2000 <hi>l.</hi> But a Rock-Pit is sunk for a very small Charge, because they need not ram out the Freshes: So that the charge of the Brine is greater than the charge of the Rock; and that quantity of Brine which will make a Tun of Salt, is equally as valuable as that quantity of Rock which will produce the same: For what is the Brine or the Rock of value for, but for the Salt they produce? Then consider, that the County of <hi>Chester</hi> is surrounded (ex<g ref="char:EOLhyphen"/>cept a very little Part bordering to the Sea) with <hi>Lancashire, Derbyshire, Staffordshire, Shropshire, Denbyshire,</hi> and <hi>Flintshtre;</hi> in all which Counties, Coals are at 1 <hi>s.</hi> 9 <hi>d. per</hi> Tun; but at <hi>Northwich</hi> in <hi>Cheshire</hi> (where the Brine-Pits are) Coals are at 14 <hi>s.</hi> 6 <hi>d.</hi> or 15 <hi>s. per</hi> Tun. Now the Rock being carry'd to the Coal in all those Counties, (which the Brine cannot be) and there made to Salt, it will under-sell the Brine-Salt
+<pb n="3" facs="tcp:186307:2"/>in all those and other Places, just so much as the Coals are cheaper in one Place than the other, <hi>viz.</hi> 12 <hi>s.</hi> 9 <hi>d.</hi> or 13 <hi>s. per</hi> Tun. The Brine-Pits therefore being confin'd to such a narrow Limit of Trade as their own County only (for the Trade to <hi>Ireland</hi> is destroy'd by the importation of foreign Salt there) they will not be able, nor is it worth their Charge to maintain and keep up their Works, so must and will leave off: And this being of absolute necessity for 'em to do, let us consider seriously what must and will be the inevitable Consequence of it. The Brine-Pits, by not Working, will be neglected, and so will go to decay; and Fresh-water-Springs will break into them, so they will be for ever lost: And then let us see how the Rock will supply us.</p>
+            <p>The Learned Author of <hi>the Paper, entituled, The Case of Refiners of Rock-Salt in</hi> Lancashire <hi>and</hi> Cheshire, fansies to himself, and would make us believe <hi>there's a mighty Tract of Ground provided with this Rock-Salt; and being twenty, or twenty five Yards thick, he reckons that a Foot square of Rock, will produce</hi> 240 <hi>Bushels; which at</hi> 20 <hi>s.</hi> per <hi>Bushel, comes to</hi> 20 <hi>l. Duty; and in proportion a Square Yard</hi> (which for fear no one should be as wise as himself, he tells us is 9 square Foot) <hi>will produce</hi> 180 <hi>l. Duty; and that doubled is</hi> 360 <hi>l. Duty.</hi> All which is as much as to say, that <hi>Three pence and Two pence is Five pence, and Five pence and Five pence is Two groats and Two pence, and Two groats and Two pence is Ten pence.</hi> But all this does not prove to us, that we are cer<g ref="char:EOLhyphen"/>tain of this great Tract of Ground so provided with this Rock as he speaks of; and I can tell him of a Gentleman, Two, Three, or Four, that have good Estates adjoining to where this Rock-Salt is now gotten; but they canot find this Rich Treasure; nei<g ref="char:EOLhyphen"/>ther is it believed in those Parts that it lies any where but in one small Tract of Land only. But supposing it were there in a larger compass, yet still it is but Supposition, not a Certainty to be relied on, either to answer <hi>this Perpetual Duty to the Government,</hi> or to supply the Occasions of the Nation with Salt: Nay, even this Rock-Salt which is known already, is not to be relied on, for any Number of Years, <hi>to supply either the Duty</hi> or the Occasions of the Country; for no less than Four of these Rock-Pits have fail'd in a very short time; and the Mineral is of that diluting Temper, that the Pillars must and will fail, by the Springs and Waters with which the Pits are, and al<g ref="char:EOLhyphen"/>ways will be infested: And then I desire it may be remembred, that this Rock is gotten near to a considerable River; so that Experience shewing us these Pits and Hollows do and will break and fall, and by those Breaches, that River and other Freshes will be let in; and then we must fetch our Salt at excessive Rates from far, and bid farewel both to Rock and Springs. So that it were much to be wished the Wisdom of Parlia<g ref="char:EOLhyphen"/>ment (it being a National Concern) would restrain the Proprietors of the Rock from digging and getting of it, and oblige them only to work the Brine thereof (which all of them have in great plenty) as the rest of the Brine-Pits do: For I can compare their digging and getting the Rock-Salt, which affords such a Rich and Perpetual Treasure of Brine to the Nation, to nothing better than that miserable Wretch, who had a Hen which laid him a golden Egg a-day; but he not being contented therewith, ripp'd up the Fowl, and so lost all.</p>
+            <p>But if this shall not be approved of as yet, 'till the mischievous Consequence of get<g ref="char:EOLhyphen"/>ting the Rock do further appear; It is humbly hoped that the Brine-Pits shall not be forthwith destroy'd, <hi>and the Rock-Salt wholly depended on for the Duty,</hi> by allowing the whole Duty at the Pit to be drawn back upon Refining, but that the Eight pence which keeps them at <hi>par</hi> shall be continued. That the Eight pence continu<g ref="char:EOLhyphen"/>ed on the Rock will not hinder the Refiner, is evident, for that they have con<g ref="char:EOLhyphen"/>stantly work'd as before; and that even notwithstanding the Honourable House of Commons did, early in this Session, declare they would not, nor indeed had they any Reason, to take it off; It is therefore humbly hoped They will be Constant to that Resolution, and continue the said Eight pence upon Rock-Salt, as it was the last Year.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:186307:3"/>
+            <p>The CASE of the BRINE-PITS <hi>Truly Stated:</hi> In Relation to the Duty expected from them.</p>
+            <p>
+               <hi>Being an Answer to the Paper, Entituled,</hi> The Case of the Rock-Salt; <hi>And also in Answer to the other Paper on that Subject.</hi>
+            </p>
+         </div>
+         <div type="note">
+            <p>
+               <table>
+                  <head>ROCR-SALT.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Note. </seg>
+                        </label> 2160 <hi>lib.</hi> of Rock, is 18 Bushel, at 120 <hi>lib.</hi> to to the Bushel, and lies in</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Duty for the same to the King, at 3 <hi>s.</hi> 4. <hi>d.</hi> for each 120 <hi>lib.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Tun of Coals will refine the same to White-Salt; and in all the Counties which border upon, and surround <hi>Cheshire,</hi> viz. <hi>Lanca<g ref="char:EOLhyphen"/>shire, Derbyshire, Staffordshire, Shropshire, Denbyshire, Flintshire,</hi> the cost is</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Carriage of the said Rock to all those Counties</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>It is allow'd, that 120 <hi>lib.</hi> of Rock, will, with Fresh-water, yield 112 <hi>lib.</hi> of Salt; (but with Sea-water will yield a considerable Increase) and in proportion to that, the said 2160 <hi>lib.</hi> of Rock, will produce 36 Bushel of Salt, at 56 <hi>lib.</hi> to the Bushel; the Duty of which to the King, if the whole 3 <hi>s.</hi> 4 <hi>d.</hi> aforesaid, for each 120 <hi>lib.</hi> be allow'd to be drawn back upon Refining, is but</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Total</cell>
+                     <cell>6</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>But if 8 <hi>d.</hi> is continu'd, as it was the last Year, upon each Bushel of Rock, at 120 <hi>lib.</hi> to the Bushel, and not drawn back upon Re<g ref="char:EOLhyphen"/>fining; the Salt made from Rock, and the Salt made from Brine, will go to Market at <hi>Par.</hi> For the 8 <hi>d.</hi> upon the aforesaid 18 Bu<g ref="char:EOLhyphen"/>shel of Rock, comes but to</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Total then of 36 Bushel of Salt made from the Rock</cell>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>BRINE-SALT.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Charges of sinking a Brine-Pit is never less than 1500 <hi>l.</hi> oftner 2000 <hi>l.</hi> which, with the great and constant Charges of Repairs consider'd; that Quantity of Brine which makes 36 Bushels of Salt, is equally valu<g ref="char:EOLunhyphen"/>able with the like Quantity of Rock which will produce 36 Bushels of Salt; so reckon'd as it is at</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>A Tun of Coals to boyl the said Brine 'till it is granulated and made into Salt, will, at <hi>Northwich</hi> in <hi>Cheshire</hi> (where the Brine-Pits are) cost 15 <hi>s.</hi> and sometimes near 17 <hi>s.</hi> but reckon them at only</cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Carriage of the said Salt to all those Counties where the Rock is run before</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Duty of the Salt being 36 Bushels, at 3 <hi>s.</hi> 4 <hi>d. per</hi> Bushel</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Total of Brine-Salt</cell>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Rock-Salt</cell>
+                     <cell>6</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>So that in 36 Bushels the difference is</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Which being 4 <hi>d. per</hi> Bushel is the prime Cost of Brine-Salt delivered at the Works; so that if the whole Draw-back is allow'd to the Rock, the Brine-Salt cannot Trade out of the County.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Total of 36 Bushels of Salt made from Brine</cell>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
